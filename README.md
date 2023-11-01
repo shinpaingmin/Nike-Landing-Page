@@ -1,4 +1,5 @@
 # Nike-Landing-Page (fully-responsive)
+# Screenshot
 
 ![screencapture-localhost-3000-2023-11-01-22_26_08](https://github.com/shinpaingmin/Nike-Landing-Page/assets/103930442/d16e5d34-2b34-425f-a8d2-0da582d5fab6)
 
